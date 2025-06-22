@@ -1,17 +1,23 @@
-![MasterHead](https://i.pinimg.com/736x/9b/2f/65/9b2f6570a6553b9002b51c4c393f4dca.jpg)
+![MasterHead](...)
 
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0" />
+<p align="center">
+  ![Repositories](https://img.shields.io/github/repos/Priyanshucs22?style=flat&color=8b00ff)
+  ![Stars](https://img.shields.io/github/stars/Priyanshucs22?style=social)
+  ![Forks](https://img.shields.io/github/forks/Priyanshucs22?style=social)
+  ![Watchers](https://img.shields.io/github/watchers/Priyanshucs22?style=social)
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Priyanshucs22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Repos-20-8b00ff" alt="Total Repositories" />
-</p>
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshucs22&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshucs22&layout=compact)
 
 ### 🧑‍💻 About Me
 
