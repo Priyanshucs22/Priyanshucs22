@@ -13,11 +13,6 @@
   <img src="https://img.shields.io/badge/Total%20Repos-34-8b00ff" alt="Total Repositories" />
 </p>
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshucs22&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshucs22&layout=compact)
-
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **ChatApp**  
