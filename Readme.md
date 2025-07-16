@@ -1,4 +1,4 @@
-<p> align="center">
+<p align="center">
   <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/340785837/original/1030716807f52e9548194dc905bc886a78c807d9/create-a-stunning-responsive-website-using-html-java-css-php-and-javascript.png" alt="cover" width="1000" height="300"
 </p>
 
