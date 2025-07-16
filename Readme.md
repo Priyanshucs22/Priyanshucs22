@@ -1,4 +1,6 @@
-![MasterHead](https://i.pinimg.com/736x/9b/2f/65/9b2f6570a6553b9002b51c4c393f4dca.jpg)
+<p> align="center">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/340785837/original/1030716807f52e9548194dc905bc886a78c807d9/create-a-stunning-responsive-website-using-html-java-css-php-and-javascript.png" alt="cover" width="1000" height="300"
+</p>
 
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <h3 align="center">A Passionate Full Stack Developer 🚀</h3>
